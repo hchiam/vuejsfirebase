@@ -6,6 +6,10 @@ An example app using **Vue**.js 2 and a **Firebase** database.
 
 * **Firebase** = easy app database setup (a real database, *not* a simulated local one). This is just one of the many services that Firebase can offer your app.
 
+## Glitch.com example
+
+https://vue-js-firebase-database.glitch.me/
+
 ## Setup
 
 Watch how to set it up here (step-by-step + explanations): https://www.youtube.com/watch?v=we4zuQIXmnw
